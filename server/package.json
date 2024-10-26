@@ -1,0 +1,14 @@
+{
+  "name": "comak",
+  "version": "1.0.0",
+  "description": "occupational safety & health",
+  "main": "comak.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "byronkenoly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
